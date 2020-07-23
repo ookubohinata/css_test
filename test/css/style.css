@@ -15,3 +15,20 @@
     background-color: skyblue;
 
 }
+/* div,span{
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+} */
+.example{
+background-color: orchid;
+padding: 20px;
+}
+.example span{
+    display: block;
+    margin: 20px;
+    border: 1px solid blue;
+    padding: 20px;
+    background-color: chartreuse;
+
+}
